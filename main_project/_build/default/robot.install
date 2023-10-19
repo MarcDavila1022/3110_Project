@@ -1,8 +1,0 @@
-lib: [
-  "_build/install/default/lib/robot/META"
-  "_build/install/default/lib/robot/dune-package"
-  "_build/install/default/lib/robot/opam"
-]
-doc: [
-  "_build/install/default/doc/robot/README.md"
-]
